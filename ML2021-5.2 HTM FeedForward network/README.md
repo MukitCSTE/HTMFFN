@@ -1,6 +1,6 @@
 # Implement HTM FeedForward network
 
-In this experiment we have developed L4-L2 based HTM Feed Forward network with neocortex v1.0.15 and train the network with various sequence and finally observes the behaviour of output layer L2 using HTM Classifier
+In this experiment we have developed L4-L2 based HTM Feed Forward network with neocortexapi v1.0.15 and train the network with various sequence and finally observes the behaviour of output layer L2 using HTM Classifier
 
 ## Getting Started
 
