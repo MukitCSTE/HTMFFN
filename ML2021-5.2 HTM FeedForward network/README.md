@@ -25,7 +25,7 @@ A step by step to install HTM Feed Forward Network in local Machine
     
     ```
  
- 2) Then visit to ..\ML2021-5.2 HTM FeedForward network from direcory where the branch is cloned 
+ 2) Then visit to ..\ML2021-5.2 HTM FeedForward network\.  direcory where the branch is cloned 
  3) Click on ML2021-5.2 HTM FeedForward network.sln file to open up the project solution file in git
  5) Then got to FeedForwardNetExperiment.cs file
  6) Pass your desire input squence on inputValuesn to test Squence Learning with HTM FFN.
