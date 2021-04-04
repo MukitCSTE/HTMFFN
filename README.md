@@ -1,6 +1,6 @@
 # Implement HTM FeedForward network
 
-In this experiment we have developed L4-L2 HTM Feed Forward network with neocortex v1.0.15 and train the network with various sequence and finally observes the behaviour of output layer L2 using HTM Classifier
+In this experiment we have developed L4-L2 based HTM Feed Forward network with neocortexapi v1.0.15 and train the network with various sequence and finally observes the behaviour of output layer L2 using HTM Classifier
 
 ## Getting Started
 
@@ -25,7 +25,7 @@ A step by step to install HTM Feed Forward Network in local Machine
     
     ```
  
- 2) Then visit to ..\ML2021-5.2 HTM FeedForward network from direcory where the branch is cloned 
+ 2) Then visit to ..\ML2021-5.2 HTM FeedForward network   directory where the branch is cloned 
  3) Click on ML2021-5.2 HTM FeedForward network.sln file to open up the project solution file in git
  5) Then got to FeedForwardNetExperiment.cs file
  6) Pass your desire input squence on inputValuesn to test Squence Learning with HTM FFN.
