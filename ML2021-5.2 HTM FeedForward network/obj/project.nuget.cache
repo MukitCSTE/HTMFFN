@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "FchGqZZsQ8wprlJNmC8gl0Bh1nicVXs0auabovqQMbpwlg/F6/4G9zsN+Bs5w7eA4/OjBCJYayuaBdC5bssHyA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\mukit\\HTMFFN\\ML2021-5.2 HTM FeedForward network\\ML2021-5.2 HTM FeedForward network.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mukit\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\mukit\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\2.2.0\\microsoft.extensions.logging.abstractions.2.2.0.nupkg.sha512",
+    "C:\\Users\\mukit\\.nuget\\packages\\neocortexapi\\1.0.15\\neocortexapi.1.0.15.nupkg.sha512"
+  ],
+  "logs": []
+}

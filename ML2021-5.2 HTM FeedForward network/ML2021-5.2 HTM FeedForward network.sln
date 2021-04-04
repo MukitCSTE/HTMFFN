@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30717.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ML2021-5.2 HTM FeedForward network", "ML2021-5.2 HTM FeedForward network.csproj", "{CFC19B03-C584-4AD6-AFB6-0266ABCCBFFE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CFC19B03-C584-4AD6-AFB6-0266ABCCBFFE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CFC19B03-C584-4AD6-AFB6-0266ABCCBFFE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CFC19B03-C584-4AD6-AFB6-0266ABCCBFFE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CFC19B03-C584-4AD6-AFB6-0266ABCCBFFE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1AC595F9-5315-4ABB-9B57-B0D3BF2A6454}
+	EndGlobalSection
+EndGlobal
