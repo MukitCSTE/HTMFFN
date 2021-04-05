@@ -57,11 +57,11 @@ A step by step to install HTM Feed Forward Network in local Machine
 
 ## Authors
 
-* **Md. Mukit Khan** - *Programmer* 
-* **Chimerie Arun** - *Developer* 
-* **Md. Rabiul Islam** - *SQA* 
-* **Md. Nabuat AI Jahid** - *Developer* 
-* **SM Mehedi** - *Azure cloud & IT expert* 
+* **Md. Mukit Khan**  
+* **Chimerie Arun**
+* **Md. Rabiul Islam** 
+* **Md. Nabuat AI Jahid**  
+* **SM Mehedi** 
 
 ## License
 
